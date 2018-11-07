@@ -1,0 +1,5 @@
+coverage/
+node_modules/
+npm-debug.log
+.vs/
+./src/test/my-debug-tests.ts
