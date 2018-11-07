@@ -9,13 +9,12 @@
   },
   "author": "Catalin VASCU",
   "license": "MIT",
-  "private": true,
   "scripts": {
     "test": "mocha  test/**/*.specs.js"
   },
   "types": "lib/index.d.ts",
   "dependencies": {
-    "@cavas/tb": "git+https://github.com/ccaavvaa/tb.git"
+    "@cavas/tb": "~0.0.1"
   },
   "devDependencies": {
     "@types/chai": "^4.1.3",

@@ -2,9 +2,10 @@
 # yarn lockfile v1
 
 
-"@cavas/tb@git+https://github.com/ccaavvaa/tb.git":
-  version "0.0.1"
-  resolved "git+https://github.com/ccaavvaa/tb.git#17ff8852dc78f88ee46c9923af1d344f29be4e4f"
+"@cavas/tb@~0.0.1":
+  version "0.0.2"
+  resolved "http://verdaccio/@cavas%2ftb/-/tb-0.0.2.tgz#5cdef5f5ada8e903d8d1610a93846f1edc649652"
+  integrity sha512-XTMMKu/DrZFqUFW60cDcWNT5VaUDevvGyZ1AhXg1276P9bhjDWF4xg4R7GVNtrDzN2/ksJJBOyOgl1KBZdtXEg==
 
 "@gulp-sourcemaps/identity-map@1.X":
   version "1.0.2"
