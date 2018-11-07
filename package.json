@@ -15,7 +15,7 @@
   },
   "types": "lib/index.d.ts",
   "dependencies": {
-    "tb": "git+https://github.com/ccaavvaa/tb.git"
+    "@cavas/tb": "git+https://github.com/ccaavvaa/tb.git"
   },
   "devDependencies": {
     "@types/chai": "^4.1.3",

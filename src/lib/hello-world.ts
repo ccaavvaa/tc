@@ -1,4 +1,4 @@
-import { HelloWorld } from 'tb';
+import { HelloWorld } from '@cavas/tb';
 export class HelloAndGoodbyeWorld extends HelloWorld {
     public get goodbye(): string {
         const name =  this.name ? ' ' + this.name : '';
